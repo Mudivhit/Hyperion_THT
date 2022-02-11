@@ -1,0 +1,12 @@
+Line 5 - Error , shift is assigned as a string and should be a number . The string T notation is also wrong including the type (it should be a string)
+
+Line 13 - If block , you cant compare a number and a string
+
+Line 33 - You cannot perfom mathemetical operations between a string and numbers
+
+line 51 - As string is passed into the function while it expects a different data type.
+
+Correctness   - 3/5
+Efficiency    - 4/5
+Stye          - 4/5
+Documentation - 4/5

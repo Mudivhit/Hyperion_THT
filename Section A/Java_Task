@@ -1,0 +1,22 @@
+Line 6 - Asking for userinput instead of hardcoding the string will make the code reusable.
+
+Line 11 - The fibonacci series is hardcoded, hardcoding is not good programming practise.
+
+Line 17 - Proper docstring should be used and not line comment
+
+Line 25 - The print statement is unnecessary and if it was being used for debugging and testing purposes it should be removed before the code is submitted
+
+Line 26 - There is an error when calling the function recursively, reverseString was used instead of reverse_string(code wont run unless this is fixed)
+
+Line 30 - Max number is redefined after passing it in , Method will not work as should since the max value is being overwritten by another definition
+
+Line 28 - Function is never used / called
+
+-General spacing and coding style is inconsistent and should be more uniform to make the code easier to read.
+
+
+Correctness   - 2/5
+Efficiency    - 2/5
+Stye          - 3/5
+Documentation - 3/5
+
